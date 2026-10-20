@@ -1,6 +1,6 @@
 # Power Ranger
 
-Power Ranger is an engine-monitoring prototype developed collaboratively for the HackHive hackathon. This repository is my personal copy of a project I helped build with my teammates; the [original project repository](https://github.com/AtharvaMaik/HackHive) preserves our shared work. External datasets and reused acoustic-simulator code are credited below under their respective licenses.
+Power Ranger is an engine-monitoring prototype developed collaboratively for the HackHive hackathon. This repository is my personal copy of a project I helped build with my teammates; the [original project repository](https://github.com/RitiGrover/PowerRanger-EngineTwin) preserves our shared work. External datasets and reused acoustic-simulator code are credited below under their respective licenses.
 
 ## Project overview
 
