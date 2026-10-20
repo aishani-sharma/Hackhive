@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
+
+/data/liu_ice/raw/
+/data/liu_ice/*.zip
+/data/marine_engine/raw/
+/data/marine_engine/*.zip
+/data/nasa_cmapss/
+/PowerRanger-EngineTwin/
